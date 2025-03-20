@@ -1,1 +1,1 @@
-web: gunicorn app:app  # Здесь только одно двоеточие
+web: gunicorn app:app
